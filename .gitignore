@@ -36,3 +36,4 @@ msbuild.wrn
 *.o
 *.so
 .fake
+obj
